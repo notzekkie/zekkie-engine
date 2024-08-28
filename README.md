@@ -1,6 +1,7 @@
 ![header](https://github.com/user-attachments/assets/9b5236b7-a3ff-433b-ad26-b5eb591aa500)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/zekticezy/zekkie-engine) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fengine.zekkie.dev)
+![GitHub repo size](https://img.shields.io/github/repo-size/zekticezy/zekkie-engine) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fengine.zekkie.dev) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/zekticezy/zekkie-engine) ![Gitea Last Commit](https://img.shields.io/gitea/last-commit/zekticezy/zekkie-engine)
+
 
 
 
