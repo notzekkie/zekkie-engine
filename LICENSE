@@ -1,28 +1,28 @@
-zekkie's Engine License
-Version 1.0
-
 1. License Grant
-You are granted permission to modify, use, and distribute the source code and any accompanying files (collectively, the "Software") under the following conditions:
 
-2. Redistribution
-Redistribution of the Software or any of its parts, modified or unmodified, is strictly prohibited without prior written permission from the original author.
+You are granted a non-exclusive, non-transferable, and non-sublicensable license to view the source code available in this repository (the "Code") solely for personal, non-commercial purposes. You may not use, copy, modify, distribute, or create derivative works based on the Code.
 
-3. Modifications
-You are allowed to modify the Software for personal use or to share modified versions with others under the following conditions:
-   - Any modified versions must clearly state what changes were made and who made them.
-   - Modified versions must not include any malicious code, malware, or any other harmful components.
+2. Restrictions
 
-4. Attribution
-You must give appropriate credit to the original author, provide a link to the original source, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+No Redistribution: You may not redistribute, publish, or share the Code, in whole or in part, in any form, including but not limited to code snippets, documentation, or as part of a software product.
+No Modification: You may not modify, adapt, or create derivative works based on the Code.
+No Commercial Use: The Code may not be used for commercial purposes or integrated into any commercial product or service.
+3. Ownership
 
-5. Non-Commercial Use
-The Software and any derivative works may not be used for commercial purposes.
+The Code is owned by Adonis J. Z., and this License does not grant any ownership rights to the Code.
 
-6. Warranty Disclaimer  
-The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+4. Termination
 
-7. Termination
-Violation of any terms of this license will automatically terminate your rights under this license.
+This License will terminate automatically if you breach any of its terms. Upon termination, you must cease all use of the Code and destroy all copies in your possession.
 
-8. Governing Law
-This license shall be governed by and interpreted in accordance with the laws of Switzerland.
+5. Disclaimer
+
+The Code is provided "as is," without warranty of any kind. Adonis J. Z. disclaims all warranties, express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose.
+
+6. Governing Law
+
+This License will be governed by and construed in accordance with the laws of Switzerland.
+
+7. Contact Information
+
+For any inquiries regarding this License, please contact me@zekkie.dev.
