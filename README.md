@@ -12,6 +12,12 @@ zkE is compiled using **gcc**. You can install gcc through [the MinGW MSY2](http
 ```bash
 pacman -S mingw-w64-ucrt-x86_64-gcc
 ```
+
+zkE also uses **pkg-config**. It's also installable through MinGW MSYS2 through the following command:
+```bash
+pacman -S mingw-w64-x86_64-pkg-config
+```
+
 Restarting your machine after installation may be necessary.
 
 zkE uses the following libraries:
