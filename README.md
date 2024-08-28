@@ -16,8 +16,8 @@ Restarting your machine after installation may be necessary.
 
 zkE uses the following libraries:
 - SDL2
-- SDL_Image
-- SDL2_TTF
+- SDL2 Image
+- SDL2 TTF
 
 # Compiling
 ## Windows
