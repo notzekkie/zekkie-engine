@@ -10,14 +10,20 @@
 # Libraries
 zkE is compiled using **gcc**. You can install gcc through [the MinGW MSY2](https://www.msys2.org/) by running
 ```bash
-$ pacman -S mingw-w64-ucrt-x86_64-gcc
+pacman -S mingw-w64-ucrt-x86_64-gcc
 ```
+
+zkE also uses **pkg-config**. It's also installable through MinGW MSYS2 through the following command:
+```bash
+pacman -S mingw-w64-x86_64-pkg-config
+```
+
 Restarting your machine after installation may be necessary.
 
 zkE uses the following libraries:
 - SDL2
-- SDL_Image
-- SDL2_TTF
+- SDL2 Image
+- SDL2 TTF
 
 # Compiling
 ## Windows
@@ -29,16 +35,16 @@ First, make sure to use **MSYS MINGW64** (the blue icon).
 
 Next, head to your project directory. I use GitHub Desktop, so it'll be in `Documents/GitHub/zekkie-engine`. To head there, run:
 ```
-$ cd /c/Users/<yourname>/Documents/GitHub/zekkie-engine
+cd /c/Users/<yourname>/Documents/GitHub/zekkie-engine
 ```
 Replace `<yourname>` with your Windows user directory name.
 
 Then, to compile zekkie Engine, run:
 ```bash
-$ gcc -o program program.c $(pkg-config --cflags sdl2) $(pkg-config --libs sdl2) $(pkg-config --cflags sdl2_image) $(pkg-config --libs sdl2_image) $(pkg-config --cflags sdl2_ttf) $(pkg-config --libs sdl2_ttf) -Wl,-subsystem,console
+gcc -o program program.c $(pkg-config --cflags sdl2) $(pkg-config --libs sdl2) $(pkg-config --cflags sdl2_image) $(pkg-config --libs sdl2_image) $(pkg-config --cflags sdl2_ttf) $(pkg-config --libs sdl2_ttf) -Wl,-subsystem,console
 ```
 
 Then, run the following:
 ```
-$ ./program
+./program
 ```
