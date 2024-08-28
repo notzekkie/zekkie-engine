@@ -77,7 +77,7 @@ int main(int argc, char* args[]) {
     }
 
     // Load font
-    TTF_Font* font = TTF_OpenFont("assets/zekkie-engine/main/arial.ttf", 24); // Adjust the font path and size as needed
+    TTF_Font* font = TTF_OpenFont("assets/friday-night-funkin/fonts/vcr.ttf", 24); // Adjust the font path and size as needed
     if (font == NULL) {
         printf("Failed to load font! SDL_ttf Error: %s\n", TTF_GetError());
         SDL_DestroyRenderer(renderer);
